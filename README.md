@@ -1,5 +1,5 @@
 # Arduio-SoftwareI2C-LCD
-Arduino controlling an I2C LCD display via Software I2C
+Arduino controlling an I2C LCD display via Software I2C using any pins. For example if your Arduino is an I2C slave.
 
 Based on
 
